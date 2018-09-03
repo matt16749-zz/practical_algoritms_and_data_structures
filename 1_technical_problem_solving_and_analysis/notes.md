@@ -43,4 +43,4 @@
 * An algorithm is basically a series of steps to a solution. Therefore, an algorithm's execution time is __The number of steps required to solve a problem__
 * __Big O notation__ provides a useful approximation for the actual number of steps in a computation.
 * Sometimes the performance of an algorithm depends on the problem’s exact data values rather than its size. For these kinds of algorithms, we need to characterize their performances as __worst case, best case, or average case__.
-
+![Big O orders of magnitude](https://github.com/matt16749/practical_algoritms_and_data_structures/blob/master/1_technical_problem_solving_and_analysis/big_o_orders_of_magnitude.jpg)
