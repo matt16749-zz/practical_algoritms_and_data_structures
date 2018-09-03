@@ -5,7 +5,7 @@
 ### Pre-class
 
 * Read George Polya's [How to Solve It](https://math.berkeley.edu/~gmelvin/polya.pdf) chapter 1.
-
   * 4 Principles of problem solving:
+    1. Understand the Problem
 
 
