@@ -36,3 +36,14 @@
   * The way to compare the time and space efficiency of programs with respect to their inputs and nothing else.
 * Problem:
   * Calculate the sum of the first n numbers. Method should take n parameter and return a sum of the numbers
+
+```ruby
+def sum_of(n)
+  total = 0
+  while n > 0
+    total += n
+    n -= 1
+  end
+  return total
+end
+```
