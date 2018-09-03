@@ -37,3 +37,8 @@
 * Problem:
   * Calculate the sum of the first n numbers. Method should take n parameter and return a sum of the numbers
   * [Solution](https://github.com/matt16749/practical_algoritms_and_data_structures/blob/master/1_technical_problem_solving_and_analysis/problems/1_sum_of_n.rb)
+
+##### Big O notation
+
+* An algorithm is basically a series of steps to a solution. Therefore, an algorithm's execution time is __The number of steps required to solve a problem__
+
