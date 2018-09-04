@@ -9,13 +9,6 @@ Please find at least three different strategies for solving this problem
 # Method accepts string.
 # Method outputs boolean.
 # Get all the letters of the alphabet. Can either put in array or hash. Hash is faster
-def time_method(method, arg)
-  beginning_time = Time.now
-  self.send(method, arg)
-  end_time = Time.now
-  puts "Time elapsed #{(end_time - beginning_time)*1000} milliseconds"
-end
-
 class Pangram
   attr_reader :alphabet_hash
   attr_reader :alphabet_array
